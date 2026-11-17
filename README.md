@@ -1,3 +1,7 @@
+<img width="1536" height="1024" alt="Designer" src="https://github.com/user-attachments/assets/cf309d1b-6085-4e9c-aca9-b58fb34f912a" />
+
+
+
 # 👋 Hi, I'm Kai Allen
 
 ### Junior Developer | Games Development | Web & Digital
